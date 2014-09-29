@@ -2,19 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-    <key>com.schriftgestaltung.fontMaster.userData</key>
-      <dict>
-    <key>GSOffsetHorizontal</key>
-      <string>3</string>
-    <key>GSOffsetProportional</key>
-      <string>1</string>
-    <key>GSCornerRadius</key>
-      <string>15</string>
-    <key>GSOffsetPosition</key>
-      <string>0.4</string>
-    <key>GSOffsetVertical</key>
-      <string>30</string>
-      </dict>
+    <key>com.schriftgestaltung.gridSize</key>
+      <integer>0</integer>
     <key>public.glyphOrder</key>
       <array>
         <string>A</string>
@@ -370,11 +359,22 @@
         <string>tilde</string>
         <string>commaaccent</string>
       </array>
-    <key>com.schriftgestaltung.fontMasterID</key>
-      <string>8159D2A9-A11A-4E04-B277-EF11602F14D5</string>
     <key>com.schriftgestaltung.useNiceNames</key>
       <true/>
-    <key>com.schriftgestaltung.gridSize</key>
-      <integer>0</integer>
+    <key>com.schriftgestaltung.fontMasterID</key>
+      <string>8159D2A9-A11A-4E04-B277-EF11602F14D5</string>
+    <key>com.schriftgestaltung.fontMaster.userData</key>
+      <dict>
+    <key>GSOffsetHorizontal</key>
+      <string>3</string>
+    <key>GSOffsetProportional</key>
+      <string>1</string>
+    <key>GSCornerRadius</key>
+      <string>15</string>
+    <key>GSOffsetPosition</key>
+      <string>0.4</string>
+    <key>GSOffsetVertical</key>
+      <string>30</string>
+      </dict>
     </dict>
 </plist>

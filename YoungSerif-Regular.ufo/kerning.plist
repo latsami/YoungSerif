@@ -2,6 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
+	<key>A</key>
+	<dict>
+	    <key>r</key>
+	    <integer>41</integer>
+	</dict>
+	<key>F</key>
+	<dict>
+	    <key>e</key>
+	    <integer>-100</integer>
+	</dict>
+	<key>H</key>
+	<dict>
+	    <key>e</key>
+	    <integer>-10</integer>
+	</dict>
+	<key>J</key>
+	<dict>
+	    <key>o</key>
+	    <integer>-30</integer>
+	</dict>
+	<key>V</key>
+	<dict>
+	    <key>Z</key>
+	    <integer>-30</integer>
+	    <key>u</key>
+	    <integer>-50</integer>
+	    <key>i</key>
+	    <integer>-50</integer>
+	    <key>a</key>
+	    <integer>-100</integer>
+	    <key>o</key>
+	    <integer>-90</integer>
+	    <key>e</key>
+	    <integer>-110</integer>
+	</dict>
+	<key>W</key>
+	<dict>
+	    <key>o</key>
+	    <integer>-110</integer>
+	</dict>
+	<key>Z</key>
+	<dict>
+	    <key>W</key>
+	    <integer>20</integer>
+	</dict>
+	<key>a</key>
+	<dict>
+	    <key>ugrave</key>
+	    <integer>-60</integer>
+	    <key>uacute</key>
+	    <integer>-60</integer>
+	    <key>ucircumflex</key>
+	    <integer>-60</integer>
+	    <key>udieresis</key>
+	    <integer>-60</integer>
+	    <key>ograve</key>
+	    <integer>-50</integer>
+	    <key>oacute</key>
+	    <integer>-50</integer>
+	    <key>odieresis</key>
+	    <integer>-50</integer>
+	    <key>ocircumflex</key>
+	    <integer>-50</integer>
+	    <key>w</key>
+	    <integer>-100</integer>
+	    <key>v</key>
+	    <integer>-100</integer>
+	    <key>p</key>
+	    <integer>-40</integer>
+	    <key>o</key>
+	    <integer>-50</integer>
+	    <key>g</key>
+	    <integer>20</integer>
+	    <key>d</key>
+	    <integer>-30</integer>
+	    <key>c</key>
+	    <integer>-30</integer>
+	    <key>t</key>
+	    <integer>-50</integer>
+	    <key>y</key>
+	    <integer>-70</integer>
+	    <key>s</key>
+	    <integer>-20</integer>
+	    <key>u</key>
+	    <integer>-60</integer>
+	    <key>b</key>
+	    <integer>-65</integer>
+	</dict>
 	<key>dcaron</key>
 	<dict>
 	    <key>period</key>
@@ -12,26 +100,99 @@
 	</dict>
 	<key>divide</key>
 	<dict>
-	    <key>six</key>
-	    <integer>30</integer>
-	    <key>five</key>
-	    <integer>40</integer>
 	    <key>eight</key>
 	    <integer>20</integer>
+	    <key>five</key>
+	    <integer>40</integer>
+	    <key>six</key>
+	    <integer>30</integer>
+	</dict>
+	<key>e</key>
+	<dict>
+	    <key>a</key>
+	    <integer>30</integer>
+	</dict>
+	<key>eacute</key>
+	<dict>
+	    <key>a</key>
+	    <integer>30</integer>
+	</dict>
+	<key>ecircumflex</key>
+	<dict>
+	    <key>a</key>
+	    <integer>30</integer>
+	</dict>
+	<key>edieresis</key>
+	<dict>
+	    <key>a</key>
+	    <integer>30</integer>
+	</dict>
+	<key>egrave</key>
+	<dict>
+	    <key>a</key>
+	    <integer>30</integer>
 	</dict>
 	<key>eth</key>
 	<dict>
-	    <key>x</key>
+	    <key>germandbls</key>
 	    <integer>-10</integer>
 	    <key>period</key>
 	    <integer>-30</integer>
-	    <key>germandbls</key>
+	    <key>x</key>
 	    <integer>-10</integer>
+	</dict>
+	<key>f</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-30</integer>
 	</dict>
 	<key>four</key>
 	<dict>
 	    <key>divide</key>
 	    <integer>-30</integer>
+	</dict>
+	<key>g</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-10</integer>
+	</dict>
+	<key>h</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	</dict>
+	<key>i</key>
+	<dict>
+	    <key>o</key>
+	    <integer>-10</integer>
+	    <key>n</key>
+	    <integer>10</integer>
+	</dict>
+	<key>k</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-10</integer>
+	</dict>
+	<key>l</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	    <key>l</key>
+	    <integer>10</integer>
+	</dict>
+	<key>m</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	    <key>o</key>
+	    <integer>-6</integer>
+	</dict>
+	<key>n</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	    <key>j</key>
+	    <integer>20</integer>
 	</dict>
 	<key>nine</key>
 	<dict>
@@ -40,10 +201,10 @@
 	</dict>
 	<key>one</key>
 	<dict>
-	    <key>four</key>
-	    <integer>40</integer>
 	    <key>eight</key>
 	    <integer>30</integer>
+	    <key>four</key>
+	    <integer>40</integer>
 	</dict>
 	<key>parenleft</key>
 	<dict>
@@ -53,6 +214,13 @@
 	<key>period</key>
 	<dict>
 	</dict>
+	<key>r</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-30</integer>
+	    <key>e</key>
+	    <integer>-10</integer>
+	</dict>
 	<key>seven</key>
 	<dict>
 	    <key>parenright</key>
@@ -60,6 +228,37 @@
 	</dict>
 	<key>space</key>
 	<dict>
+	</dict>
+	<key>t</key>
+	<dict>
+	    <key>i</key>
+	    <integer>30</integer>
+	    <key>a</key>
+	    <integer>30</integer>
+	</dict>
+	<key>u</key>
+	<dict>
+	    <key>l</key>
+	    <integer>30</integer>
+	    <key>r</key>
+	    <integer>34</integer>
+	</dict>
+	<key>v</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	    <key>o</key>
+	    <integer>-30</integer>
+	</dict>
+	<key>w</key>
+	<dict>
+	    <key>a</key>
+	    <integer>-20</integer>
+	</dict>
+	<key>y</key>
+	<dict>
+	    <key>o</key>
+	    <integer>-20</integer>
 	</dict>
     </dict>
 </plist>
